@@ -1,4 +1,4 @@
-# Xadrez-Java
+Projeto de Xadrez
 
 
 
